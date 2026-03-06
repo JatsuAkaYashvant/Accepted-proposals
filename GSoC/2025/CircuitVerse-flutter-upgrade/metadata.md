@@ -1,6 +1,8 @@
-Author: Yashvant Singh
-College/Organization: NIT Hamirpur
-Program: GSoC
-Year: 2025
-Project: Flutter Upgrade
-Mentor Organization: CircuitVerse
+# Proposal Metadata
+
+**Author:** Yashvant Singh  
+**College / University:** NIT Hamirpur  
+**Program:** GSoC  
+**Year:** 2025  
+**Project:** Flutter Upgrade  
+**Mentor Organization:** CircuitVerse
