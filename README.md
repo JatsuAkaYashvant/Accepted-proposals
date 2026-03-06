@@ -50,7 +50,7 @@ project-name
 Example:
 
 ```
-proposals/gsoc/2025/flutter-upgrade/
+proposals/gsoc/2025/CircuitVerse-flutter-upgrade/
 │
 ├── proposal.md
 └── metadata.md
@@ -77,6 +77,8 @@ Currently, the repository includes proposals from:
 
 - **Google Summer of Code (GSoC)**
 - **LFX Mentorship**
+- **Summer of Bitcoin**
+- **Code for Good Tech (C4GT)**
 - **Outreachy**
 
 More programs may be added in the future.
@@ -94,7 +96,7 @@ We welcome contributions from anyone who would like to share their accepted prop
 3. Create a folder for your project:
 
 ```
-proposals/<program>/<year>/<project-name>/
+proposals/<program>/<year>/<org-name-project-name>/
 ```
 
 4. Add the following files:
