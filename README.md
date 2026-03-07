@@ -94,10 +94,10 @@ More programs may be added in the future.
 
 Some communities maintain public archives of accepted open-source proposals. These resources can be helpful for applicants looking to understand how successful proposals are structured.
 
-| Community | Archive |
+| Community | Proposal Archive |
 |-----------|--------|
-| **SDSLabs (IIT Roorkee)** | [View](https://blog.sdslabs.co/gsoc/) |
-| **COPS (IIT BHU)** | [View](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals) |
+| **SDSLabs (IIT Roorkee)** | [View Archive](https://blog.sdslabs.co/gsoc/) |
+| **COPS (IIT BHU)** | [View Archive](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals) |
 
 If you know other public archives of accepted open-source proposals, feel free to add them via a Pull Request.
 
