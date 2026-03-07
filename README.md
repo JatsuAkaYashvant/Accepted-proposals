@@ -13,7 +13,7 @@ This repository aims to help contributors understand **how successful proposals 
   - [Repository Structure](#repository-structure)
   - [Purpose](#purpose)
   - [Programs Covered](#programs-covered)
-  - [External Proposal Archives](#external-proposal-archives)
+  - [🌐 External Proposal Archives](#-external-proposal-archives)
   - [Contributing](#contributing)
     - [Steps to Contribute](#steps-to-contribute)
   - [Metadata Format](#metadata-format)
@@ -90,13 +90,14 @@ More programs may be added in the future.
 
 ---
 
-## External Proposal Archives
+## 🌐 External Proposal Archives
 
-Some communities already maintain public archives of their accepted proposals.  
-These can also serve as valuable references for applicants.
+Some communities maintain public archives of accepted open-source proposals. These resources can be helpful for applicants looking to understand how successful proposals are structured.
 
-- **SDSLabs IITR GSoC Proposal Archive**  
-  https://blog.sdslabs.co/gsoc/
+| Community | Archive |
+|-----------|--------|
+| **SDSLabs (IIT Roorkee)** | [View](https://blog.sdslabs.co/gsoc/) |
+| **COPS (IIT BHU)** | [View](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals) |
 
 If you know other public archives of accepted open-source proposals, feel free to add them via a Pull Request.
 
