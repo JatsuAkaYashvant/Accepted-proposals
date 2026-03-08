@@ -98,6 +98,7 @@ Some communities maintain public archives of accepted open-source proposals. The
 |-----------|--------|
 | **SDSLabs (IIT Roorkee)** | [View Archive](https://blog.sdslabs.co/gsoc/) |
 | **COPS (IIT BHU)** | [View Archive](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals) |
+| **OpenLake (IITBH)** | [View Archive](https://github.com/OpenLake/GSoC_Proposals) |
 
 If you know other public archives of accepted open-source proposals, feel free to add them via a Pull Request.
 
