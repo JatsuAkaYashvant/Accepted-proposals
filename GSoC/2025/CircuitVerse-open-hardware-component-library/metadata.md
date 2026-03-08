@@ -8,3 +8,4 @@
 | Year | 2025 |
 | Project | Open Hardware Component Library |
 | Mentor Organization | CircuitVerse |
+| LinkedIn | https://www.linkedin.com/in/nihal-rajpal/ |

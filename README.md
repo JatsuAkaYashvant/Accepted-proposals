@@ -138,6 +138,7 @@ Program: GSoC / LFX / Outreachy
 Year: 2026
 Project: Project Name
 Mentor Organization: Organization Name
+LinkedIn: LinkedIn URL
 ```
 
 ---
