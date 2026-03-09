@@ -100,6 +100,9 @@ Some communities maintain public archives of accepted open-source proposals. The
 | **COPS (IIT BHU)** | [View Archive](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals) |
 | **OpenLake (IITBH)** | [View Archive](https://github.com/OpenLake/GSoC_Proposals) |
 |**GSoC archive 2025** | [View Archive](https://github.com/SammanSarkar/GSoC_archive_2025) |
+|**GSoC Proposals Archive** | [View Archive](https://github.com/Google-Summer-of-Code-Archive/gsoc-proposals-archive) |
+|**GSoC Proposals Archive - Thapar**| [View Archive](https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive) |
+
 
 If you know other public archives of accepted open-source proposals, feel free to add them via a Pull Request.
 
